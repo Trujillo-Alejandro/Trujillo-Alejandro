@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 💞️ Por ahora estoy mostrando mis primeros proyectos CRUD con JPA, Security, ThymeLeaf, DB Oracle
 📫 Me pueden contactar a mi correo trujillo.alejandro@gmail.com
 
+## Skills
+
 
