@@ -22,4 +22,10 @@ Here are some ideas to get you started:
 
 ## Skills
 
-
+Html 5
+CSS
+BootStrap
+JavaScript
+Java
+Spring Boot
+DB Oracle
