@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hola, Soy Alejandro Trujillo Oyarzún
-
 
 <h1 align="center">Hola 👋, Soy Alejandro Trujillo Oyarzún</h1>
 <h3 align="center">Java Full Stack Developer</h3>
