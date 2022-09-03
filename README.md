@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 📫 Me pueden contactar a mi correo **trujillo.alejandro@gmail.com**
 
 <p align="left">
-<a href="trujillo.alejandro@gmail.com" target="blank"> alt="trujillo.alejandro@gmail.com" height="30" width="40" /></a>
+<a href="trujillo.alejandro@gmail.com" target="blank">vv</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
