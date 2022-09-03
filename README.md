@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 👀 Estoy muy interesado en aprender Java, Python y BootStrap
 🔭 Actualmente estoy aprendiendo Java Full Stack con Spring Boot
 💞️ Por ahora estoy mostrando mis primeros proyectos CRUD con JPA, Security, ThymeLeaf, DB Oracle 
-📫 Me pueden contactar a mi correo **trujillo.alejandro@gmail.com**
+📫 Me pueden contactar a mi correo: 
 
 <p align="left">
-<a href="trujillo.alejandro@gmail.com" target="blank">trujillo.alejandro@gmail.com</a>
+ <a href="mailto:trujillo.alejandro@gmail.com">trujillo.alejandro@gmail.com</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
