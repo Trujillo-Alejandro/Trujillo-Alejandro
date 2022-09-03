@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hola, Soy Alejandro Trujillo Oyarzún
+👀 Estoy muy interesado en aprender Java, Python y BootStrap
+🔭 Actualmente estoy aprendiendo Java Full Stack con Spring Boot
+💞️ Por ahora estoy mostrando mis primeros proyectos CRUD con JPA, Security, ThymeLeaf, DB Oracle
+📫 Me pueden contactar a mi correo trujillo.alejandro@gmail.com
