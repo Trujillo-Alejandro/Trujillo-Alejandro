@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 💞️ Por ahora estoy mostrando mis primeros proyectos CRUD con JPA, Security, ThymeLeaf, DB Oracle
 📫 Me pueden contactar a mi correo trujillo.alejandro@gmail.com
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<blue>
